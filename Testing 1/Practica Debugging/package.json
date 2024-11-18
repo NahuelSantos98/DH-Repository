@@ -1,0 +1,19 @@
+{
+  "name": "practica-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage" : "jest: --coverage"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Nahuel Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
